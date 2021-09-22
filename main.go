@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"testbot.com/m/bot"
-	"testbot.com/m/config"
+	"testbot.com/TestBot/bot"
+	"testbot.com/TestBot/config"
 )
 
 func main() {

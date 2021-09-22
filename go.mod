@@ -1,4 +1,4 @@
-module testbot.com/m
+module testbot.com/TestBot
 
 go 1.17
 

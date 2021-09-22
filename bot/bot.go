@@ -5,7 +5,7 @@ import (
 	"strings"
 
 	"github.com/bwmarrin/discordgo"
-	"testbot.com/m/config"
+	"testbot.com/TestBot/config"
 )
 
 var (
